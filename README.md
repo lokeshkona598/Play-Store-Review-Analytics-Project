@@ -57,8 +57,7 @@ playstore_review_project/
 
 ## 📎 Sample Visuals
 
-![Sentiment Distribution](powerbi/screenshot_sentiment.png)
-*(Add your own screenshots here from Power BI dashboard)*
+
 ![image](https://github.com/user-attachments/assets/8258ad08-7d0c-475e-a40c-afbca10ed30e)
 
 ---
