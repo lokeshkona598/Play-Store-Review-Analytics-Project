@@ -34,12 +34,12 @@ playstore_review_project/
 
 ### 1. **Scrape Reviews**
 - Tool: `google-play-scraper`
-- Output: `instagram_reviews_raw.csv`
+- Output: `whatsup_reviews_raw.csv`
 
 ### 2. **Preprocess & Analyze**
 - Clean data using `pandas`
 - Perform sentiment analysis with `TextBlob`
-- Export as `instagram_reviews_cleaned.csv`
+- Export as `whatsup_reviews_cleaned.csv`
 
 ### 3. **Load into MySQL**
 - Use `schema.sql` to create database & table
