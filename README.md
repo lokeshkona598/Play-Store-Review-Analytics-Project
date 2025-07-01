@@ -56,6 +56,15 @@ playstore_review_project/
 ---
 
 ## 📎 Sample Visuals
+-Review Sentiment Distribution
+![Screenshot 2025-07-01 172245](https://github.com/user-attachments/assets/e934a9f6-7d64-465a-9201-1f1c3d61a25a)
+-User Rating Distribution
+![Screenshot 2025-07-01 172324](https://github.com/user-attachments/assets/4de2e2a8-7d39-48fd-86d3-bdc89b92874f)
+-Review Volume Over Time
+![Screenshot 2025-06-30 204329](https://github.com/user-attachments/assets/44047e8c-384b-4926-bfd1-e8b37bc4b80b)
+-Negative Reviews given by Customers
+![Screenshot 2025-07-01 172430](https://github.com/user-attachments/assets/87349cfc-ddc2-4b37-81c8-aac5faa75680)
+-Sentiment Analysis By Stars
 ![image](https://github.com/user-attachments/assets/18081d20-dd73-4737-8c85-4cd5683e02ba)
 
 ---
