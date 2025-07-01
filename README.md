@@ -56,6 +56,7 @@ playstore_review_project/
 ---
 
 ## 📎 Sample Visuals
+![image](https://github.com/user-attachments/assets/18081d20-dd73-4737-8c85-4cd5683e02ba)
 
 ---
 
