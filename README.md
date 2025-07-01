@@ -34,12 +34,12 @@ playstore_review_project/
 
 ### 1. **Scrape Reviews**
 - Tool: `google-play-scraper`
-- Output: `whatsup_reviews_raw.csv`
+- Output: `redbus_reviews_raw.csv`
 
 ### 2. **Preprocess & Analyze**
 - Clean data using `pandas`
 - Perform sentiment analysis with `TextBlob`
-- Export as `whatsup_reviews_cleaned.csv`
+- Export as `redbus_reviews_cleaned.csv`
 
 ### 3. **Load into MySQL**
 - Use `schema.sql` to create database & table
@@ -56,9 +56,6 @@ playstore_review_project/
 ---
 
 ## 📎 Sample Visuals
-
-
-![image](https://github.com/user-attachments/assets/8258ad08-7d0c-475e-a40c-afbca10ed30e)
 
 ---
 
