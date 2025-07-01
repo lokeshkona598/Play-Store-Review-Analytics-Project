@@ -1,4 +1,4 @@
-# 📱 Play Store Review Analytics Dashboard (Whatsup)
+# 📱 Play Store Review Analytics Dashboard (redBus)
 
 Analyze user reviews of a Play Store app using **Python**, **MySQL**, and **Power BI** to gain insights from real user sentiment and ratings.
 
@@ -6,7 +6,7 @@ Analyze user reviews of a Play Store app using **Python**, **MySQL**, and **Powe
 
 ## 📊 Project Overview
 
-This project collects and analyzes user reviews of the **Whatsup** app from the Google Play Store. It uses sentiment analysis to categorize reviews as Positive, Negative, or Neutral and visualizes the results in an interactive Power BI dashboard.
+This project collects and analyzes user reviews of the **redBus** app from the Google Play Store. It uses sentiment analysis to categorize reviews as Positive, Negative, or Neutral and visualizes the results in an interactive Power BI dashboard.
 
 ---
 
